@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Some websites, that rank scientists based on their publications, have put me in the top 100 most influential scientists in Computer Vision and Machine Learning in the last decade.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Besides that, sometimes, I lift heavy stuff repeatedly, and often daydream of sleeping for 8 hours straight. I like to think about the implication and impacts of technology on our culture and society. I try my best to show the potential of technology to as many as I can and warn them about the side effects of it. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contact me
 
-
-[jekyll-organization]: https://github.com/jekyll
+[ali@razavian.org](mailto:ali@razavian.org)
