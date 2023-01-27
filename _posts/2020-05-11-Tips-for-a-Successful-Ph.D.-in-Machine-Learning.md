@@ -1,5 +1,3 @@
-Tips for a Successful Ph.D. in Machine Learning
-
 Ph.D. is one of the few practices that almost no one does it twice. There are lots of people with multiple M.Sc.s or are repeat entrepreneurs. But I have yet to meet someone in person with two Ph.D.s. Ph.D. uniquely defines your future.
 
 This article is a compilation of ideas and conversations that I had with my colleagues, my students, and my friends in conferences, universities, and the industry.
