@@ -1,7 +1,8 @@
 Ph.D. is one of the few practices that almost no one does it twice. There are lots of people with multiple M.Sc.s or are repeat entrepreneurs. But I have yet to meet someone in person with two Ph.D.s. Ph.D. uniquely defines your future.
 
 This article is a compilation of ideas and conversations that I had with my colleagues, my students, and my friends in conferences, universities, and the industry."
-1- Make sure Ph.D. is the right choice for you
+
+# 1- Make sure Ph.D. is the right choice for you
 
 “Should I go to the industry, or should I get a Ph.D.? Do I need a Ph.D. anyway?” This is among the top questions that almost all my M.Sc. students ask me. And my answer is more or less the same: “It depends”.
 
