@@ -9,6 +9,13 @@ layout: default
         <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
+        <script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
     {% endfor %}
     </ul>
 
