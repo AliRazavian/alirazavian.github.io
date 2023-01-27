@@ -10,7 +10,7 @@ layout: default
         <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="alirazavian.github.io"
         issue-term="title"
         theme="github-dark"
         crossorigin="anonymous"
