@@ -127,6 +127,3 @@ Anyone who has learns a new language knows that there is a huge difference betwe
 
 There are many great other advantages to incremental research as well. Having an actual publication eliminates lots of your stress, and makes it easier for you to cross the publication count barrier when the bureaucracies start to become annoying. Your supervisor is probably happier with you and you will have more freedom to work on less straight-forward problems. You will practice writing, submitting, and rebutting an idea to a conference in a much safer setting where the rules are clearer. And most importantly, at least in my opinion, when you are not getting noticed, you will learn how useless your Ph.D. could be if you are not willing to take a risk and move away from the crowded topics.
 
----
-
-This article is a compilation of conversations I have had over the past few years with people of different positions. The conversation is not over yet. Please, by all means, contribute to this conversation.
