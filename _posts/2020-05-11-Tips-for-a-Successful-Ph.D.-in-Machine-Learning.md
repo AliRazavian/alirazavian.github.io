@@ -93,9 +93,11 @@ If you haven’t started your Ph.D. yet but you want to, maybe there are things 
 ## 5-1- Follow your passion
 
 This is a cliché, but make sure you enjoy the topic you are going to work on and search for supervisors in that field. It is not easy to find a supervisor when you are still unfamiliar with the topics of the field. I personally planned a reading marathon. Before starting my Ph.D. I was reading publications 12 hours a day for three weeks straight while doping two pots of coffee per day. I was underlining every keyword I didn’t understand and add the citations to my reading stack. It wasn’t the happiest three weeks of my life but I learned a lot about the field and I was certain about the topic I wanted to work on during my Ph.D.
+
 ## 5-2- Find the right supervisor
 
 After gathering a list of people that you like their research, it is time to find the ones that you could create a fulfilling relationship with. You can always contact the supervisor’s students, graduates, and dropouts and ask them about the supervisor. Contacting the graduates is better than contacting the students because they have seen more of the supervisor’s attitudes. Graduates also have less to worry about if they are to share negative feedback. If you could find any dropouts, make sure you contact them and talk to them first.
+
 ## 5-3- Have a solid application
 
 A Ph.D. ad in the top 100 universities gets at least a thousand applicants. Rejection is the norm, acceptance is the exception. But still, there are things you could do to increase your odds. Your application is pretty much an advertisement. You are advertising yourself to the professor in a competitive market.
@@ -109,6 +111,7 @@ When professors get new students, they know exactly how much of their valuable t
 Doing an internship with the supervisor is a great practice. You get to know the problem you are going to work on and the support you could expect from the supervisor. The supervisor gets to know you too. Which eliminates their risk of hiring you. If it was a paid internship, all the better. And if it wasn’t, well, if you are not willing to invest in yourself, who would?
 
 So what if one couldn’t get an internship? Well, you could always do what you would’ve done in your internship, in your bedroom. Read every paper the supervisor and their students have written, try to reproduce the results. Email the supervisor or their students and ask them for guidelines. Don’t ask obvious questions though. Make sure the answer to your questions cannot be found on the net or worse, in the supervisor’s publications. Soon you will see that there are ideas that have not been implemented yet. Mostly because there are not enough resources in the lab. Keep working on those ideas and keep asking for guidelines through emails until you become relevant to that lab’s research. The best Ph.D. students are the one who takes initiative and gets things done with minimum guidance. If you could pull it off in your bedroom, you are not a risk to the supervisor anymore.
+
 # 6- The first two years of your Ph.D.
 
 The first two years are the most important times in your Ph.D. This is the time that you master the history of your field. In this period you should learn to ask “why”. You will learn how to write a paper and how to deal with the emotional aftermath of rejections. This is the period that you could know for sure if your supervisor is supporting your research or you are on your own. There are necessary practices that you could do in this period that could give you a boost in the second half of your Ph.D.
