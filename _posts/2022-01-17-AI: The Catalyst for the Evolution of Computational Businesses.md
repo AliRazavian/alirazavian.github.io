@@ -27,8 +27,6 @@ The quality of software 1.0 improves (or degrades) when the software developer (
 
 ## 1- Inefficient Hardware
 
-<Photo by analogicus on Pixabay>
-
 The first obvious obstacle is the processing power required to execute these algorithms. Hardware as we know it has evolved side by side of Software. The current processors are extremely good at executing one instruction at a time as fast as possible. This is not in any way efficient for Software 2.0.
 
 With Software 2.0, the wast majority of processing time is spent on one operation: Dot-Product.
@@ -43,9 +41,10 @@ The introduction of Tensor Cores in Nvidia processors and ML cores in Apple proc
 
 In the Von-Neumann architecture (which is basically “the” architecture for any type of processing machine ranging from your smart TV to Amazon’s supercomputer) there is a clear distinction between the memory and processor. We can exactly say if a transistor belongs to a processing circuit or a memory circuit. This is not the case for the human brain where it is unclear whether a neuron is a memory or process neuron. In the new architecture, (which to the best of my knowledge does not exist yet) the process of dot-product is migrated into the memory unit. This brings huge efficiencies into the world of Software 2.0
 
+
 ## 2- Lack of Established Processes
 
-<Photo by jarmoluk on Pixabay>
+
 
 Tomas Kuhn in his book “The Structure of Scientific Revolutions” highlights that the paradigm shift is not a smooth process. Believers of the new paradigm are generally young people who are willing to jump ship while older more experienced ones remain on the old paradigm and disappear from the memories. The industry decision-makers (Product Managers, CTOs, etc…) have at most 30–40 years of experience and to them, everything that has happened in the software world had been an incremental improvement. Software 2.0 or Machine Learning as it is called in academia, branched out from what we call software today almost 80 years ago. It is hard to convince them that the paradigm is shifting.
 
@@ -53,13 +52,14 @@ When developing traditional software, there are four distinct steps to take: Def
 
 But neither the process nor the tools for Software 2.0 are well established yet. Every time there is a paradigm shift, there is resistance to it. Given what we see, it is very unlikely that the software 2.0 revolution is led by the silicon valley giants. The next pioneers of Software 2.0 are still in their small startups trying to define what the industry should be.
 
+
 ## 3- knowledge Gap
+
 
 I mentioned that Software 2.0 learns from its mistake without the need for a software developer. The technology to automate this loop was only invented recently. Deep Learning is at the center of Software 2.0 since it’s the only algorithm capable of achieving super-human accuracy on every family of tasks. (super-human accuracy means the annotators’ accuracy. Which as a group is generally higher than a single individual. Hence the name super-human). DL only began to take off in academia in 2012–2014. The success of Deep Learning in Academia encouraged the industry to copy academic solutions into their pipelines and that lead to disappointment. Three distinct problems need to be solved to automatically achieve superhuman accuracy on real-world data.
 
 ### 3–1- Long-tail distribution
 
-<Photo by zoohojakjil on Pixabay>
 
 Let’s start with an intuitive example. Imagine if a person wants to learn about a topic, say quantum physics. And they go to a library to gain that knowledge. They start to randomly pick up a book, read it all the way through, put it back, and pick up another book until all the books in the library are read. Then they repeat this step until every book is read 10–100 times. This is how Deep Neural Networks are trained. This process is extremely redundant. If they read a book about the alphabet after reading a book about quantum physics, well, one of the two books could have been skipped.
 
@@ -91,10 +91,3 @@ The first bad way of dealing with these samples is to through them away. This (i
 Inconsistency has appeared in many forms in academic research. Especially where the teacher is a model and not a human annotator. Self-supervised learning uses inconsistency of a model with itself as a source of information for learning better representation. Some video-analysis pipelines use the inconsistency of the same model on two consecutive frames (flickering predictions) as an indicator to harvest hard examples. Yet to the best of my knowledge no one has published the inconsistency problem in a unified statistical framework.
 
 
-# A Software 2.0 Interpreter
-
-A while ago, I came across a guideline written in the 1970s addressed to the Ph.D. students and one of the recommendations was to never write your compiler!
-
-I think Software 2.0 is where traditional software was in the 1970s. Even businesses who get the potential of Software 2.0 right, still rewrite the data pipelines and back-propagation algorithms and all of the complexities that everyone else is rewriting. There is a need for a Software 2.0 compiler that can address all the AI problems all businesses have.
-
-In the next article, I’ll write about what components software 2.0 must have to solve most AI problems in the industry. But until then, please allow me to introduce what we are doing. We set out to build this Software 2.0 compiler. We are dedicated to openness and transparency and we plan to opensource our code-base soon. But until then, if you are interested in building this with us, please send a link to your Google Scholar and Github to me at ali@razavian.org
